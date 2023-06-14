@@ -1,0 +1,18 @@
+body{
+    background: rgb(30, 89, 216);
+}
+h1{
+    color: red;
+   margin: auto;
+   width:fit-content;
+}
+span{
+    color: red;
+}
+.container{
+    border-bottom: 1px solid black;
+}
+.ans{
+    color:white;
+   
+}
